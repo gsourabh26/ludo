@@ -1,2 +1,0 @@
-# ludo
-ludo game
